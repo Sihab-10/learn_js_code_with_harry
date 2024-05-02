@@ -53,3 +53,4 @@ const dictionary = {
     adventure: "an unusual and exciting or daring experience."
 }
 console.log(dictionary)
+console.log(dictionary['yakka'])
